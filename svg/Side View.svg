@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1373px" height="6250px" viewBox="0 0 1373 6250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-2" sketch:type="MSArtboardGroup">
+            <rect id="Groove" fill="#000000" sketch:type="MSShapeGroup" x="417" y="3415" width="150" height="2765"></rect>
+            <g id="cable-jack-portrait-2-+-iPhone-Portrait-2" sketch:type="MSLayerGroup" transform="translate(336.000000, 147.000000)">
+                <rect id="cable-jack-portrait-2" fill="#4990E2" sketch:type="MSShapeGroup" x="62" y="4875" width="188" height="479"></rect>
+                <rect id="iPhone-Portrait-2" fill="#50E3C2" sketch:type="MSShapeGroup" x="0" y="0" width="302" height="4875"></rect>
+            </g>
+            <path d="M505.868665,38.2554276 L505.868652,2638.87506 L841.249999,3008.28131 L841.249999,5022.10943 L643.140624,5213.95318 L643.140624,6251.35115 L-0.23242209,6249.76585 L-0.232419152,5022.10942 L337.1622,5022.10943 L337.162201,254.195308 L166.500003,254.195308 L166.5,983.757808 L-0.232422519,983.757796 L-0.23242209,38.2554276 L505.868665,38.2554276 Z" id="Side-View" opacity="0.693680037" fill="#D0011B" sketch:type="MSShapeGroup"></path>
+            <path d="M994.5,3660.5 L1144.5,3660.5" id="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
